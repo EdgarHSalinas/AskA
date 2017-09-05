@@ -1,10 +1,14 @@
 == README
 
-Ask A Question Basic App.
+Ask A Question History of Software basic App.
 
-Things you may want to cover:
+Heroku 
 
-* Ruby version
+https://guarded-shore-79190.herokuapp.com
+
+* Ruby version 2.2.0
+
+* Rails ~> 4.2.0
 
 * System dependencies
 
