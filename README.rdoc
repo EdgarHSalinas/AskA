@@ -1,6 +1,8 @@
 == README
 
-Ask A Question History of Software basic App.
+Ask A Question 
+
+History of Software basic App.
 
 Heroku 
 
