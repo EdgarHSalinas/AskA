@@ -43,6 +43,6 @@ https://guarded-shore-79190.herokuapp.com
 
 
 
-![](https://github.com/EdgarHSalinas/AskA/blob/master/History%20of%20Software.gif)
+https://github.com/EdgarHSalinas/AskA/blob/master/History%20of%20Software.gif
 
 
