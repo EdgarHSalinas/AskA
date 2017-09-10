@@ -2,9 +2,17 @@
 
 Ask A Question History of Software basic App.
 
-![](https://github.com/EdgarHSalinas/AskA/blob/master/History%20of%20Software.png)
-![](https://github.com/EdgarHSalinas/AskA/blob/master/New%20Question.png)
-![](https://github.com/EdgarHSalinas/AskA/blob/master/History%20Question%20and%20Answer.png)
+Heroku 
+
+https://guarded-shore-79190.herokuapp.com
+
+* Ruby version 2.2.0
+
+* Rails ~> 4.2.0
+
+https://github.com/EdgarHSalinas/AskA/blob/master/History%20of%20Software.png
+https://github.com/EdgarHSalinas/AskA/blob/master/New%20Question.png
+https://github.com/EdgarHSalinas/AskA/blob/master/History%20Question%20and%20Answer.png
 
 
 Heroku 
