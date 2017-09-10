@@ -2,6 +2,11 @@
 
 Ask A Question History of Software basic App.
 
+![](https://github.com/EdgarHSalinas/AskA/blob/master/History%20of%20Software.png)
+![](https://github.com/EdgarHSalinas/AskA/blob/master/New%20Question.png)
+![](https://github.com/EdgarHSalinas/AskA/blob/master/History%20Question%20and%20Answer.png)
+
+
 Heroku 
 
 https://guarded-shore-79190.herokuapp.com
@@ -27,5 +32,9 @@ https://guarded-shore-79190.herokuapp.com
 * ...
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
+
+![](https://github.com/EdgarHSalinas/AskA/blob/master/History%20of%20Software.gif)
+
+
